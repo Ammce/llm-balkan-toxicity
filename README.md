@@ -77,10 +77,3 @@ Copy
 If you require example code or have questions, please contact the first author at [amcenp@gmail.com](mailto:amcenp@gmail.com).
 
 ---
-
-**Tip:**  
-If/when you decide to share the actual code, just add a `/scripts` folder and update the README with usage instructions.
-
-**Including pseudocode or a workflow is much better than nothing**—it signals transparency, helps reviewers, and makes it easier for others to reproduce your work.
-
-Let me know if you want to include a LaTeX algorithm block as well!
